@@ -1,3 +1,5 @@
+library(matlib) ## Loads the matlib package
+
 ## These two functions allow you to cache the inverse of a matrix
 
 ## This function creates a special matrix (a list actually)
